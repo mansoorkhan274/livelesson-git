@@ -9,3 +9,11 @@
 - 'git log': shows the logs (history) of our commits.
 	- 'git log --oneline': shows the shorter oneline commit
 
+- 'git log': shows the log (history) of our commits
+	- 'git log --oneline' : shows the shorter oneline commit
+
+- 'git diff': comapre current uncommited state with last known git state
+	-'git diff --staged': runs git diff between the stagging area and last known state 
+- 'git diff HEAD~<NUMBER>': comapre HEAD with commit <NUMBER> ago (relative)
+- 'git diff <HASH>': comapres HEAD with the commit in <HASH>
+
