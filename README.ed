@@ -22,4 +22,6 @@
 		- 'git checkout <HASH OR HEAD~>': if you forgot the file, you end up in detach
 		- 'git checkout main ': go back to main
 		- 'git switch main': go back to main
+		
+-'git pull': pull all changes from remote to local		
 
