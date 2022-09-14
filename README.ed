@@ -25,3 +25,8 @@
 		
 -'git pull': pull all changes from remote to local		
 
+
+
+
+- A 'merge' on the remote is called "pull request" or "merge request"
+	- 'git push <WHERE> <WHAT>'
